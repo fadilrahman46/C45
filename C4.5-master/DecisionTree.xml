@@ -1,0 +1,1 @@
+<DecisionTree><N5B flag="l" p="0.71" value="1.0"><N5C flag="l" p="0.601" value="1.0"><N5A flag="l" p="0.563" value="1.0">1</N5A><N5A flag="r" p="0.437" value="1.0">0</N5A></N5C><N5C flag="r" p="0.399" value="1.0">0</N5C></N5B><N5B flag="r" p="0.29" value="1.0">0</N5B></DecisionTree>
