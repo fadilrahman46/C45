@@ -1,0 +1,946 @@
+{
+    "Data_Kependudukan(Dukcapil)": [
+    {
+        "nik": "3201010101900001",
+        "nama": "Budi Santoso",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1990-01-01",
+        "alamat": "Jl. Merdeka No. 10, Jakarta Pusat, Tanah Abang, Bendungan Hilir, RT 001/RW 001, Jakarta Pusat, DKI Jakarta",
+        "jenis_kelamin": "Laki-laki",
+        "status_perkawinan": "Belum Kawin",
+        "pekerjaan": "Karyawan Swasta",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "A"
+    },
+    {
+        "nik": "3201010102920002",
+        "nama": "Siti Aminah",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1992-02-02",
+        "alamat": "Jl. Sudirman No. 20, Jakarta Selatan, Setiabudi, Karet Semanggi, RT 002/RW 002, Jakarta Selatan, DKI Jakarta",
+        "jenis_kelamin": "Perempuan",
+        "status_perkawinan": "Kawin",
+        "pekerjaan": "Ibu Rumah Tangga",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "B"
+    },
+    {
+        "nik": "3201010103880003",
+        "nama": "Agus Wijaya",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1988-03-03",
+        "alamat": "Jl. Gatot Subroto No. 30, Jakarta Timur, Jatinegara, Kampung Melayu, RT 003/RW 003, Jakarta Timur, DKI Jakarta",
+        "jenis_kelamin": "Laki-laki",
+        "status_perkawinan": "Kawin",
+        "pekerjaan": "Pegawai Negeri Sipil",
+        "agama": "Kristen",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "O"
+    },
+    {
+        "nik": "3201010104950004",
+        "nama": "Dewi Lestari",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1995-04-04",
+        "alamat": "Jl. Thamrin No. 40, Jakarta Pusat, Menteng, Gondangdia, RT 004/RW 004, Jakarta Pusat, DKI Jakarta",
+        "jenis_kelamin": "Perempuan",
+        "status_perkawinan": "Belum Kawin",
+        "pekerjaan": "Mahasiswa",
+        "agama": "Buddha",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "AB"
+    },
+    {
+        "nik": "3201010105850005",
+        "nama": "Rudi Hartono",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1985-05-05",
+        "alamat": "Jl. Kebon Sirih No. 50, Jakarta Pusat, Gambir, Petojo Selatan, RT 005/RW 005, Jakarta Pusat, DKI Jakarta",
+        "jenis_kelamin": "Laki-laki",
+        "status_perkawinan": "Kawin",
+        "pekerjaan": "Pengusaha",
+        "agama": "Katolik",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "A"
+    },
+    {
+        "nik": "3201010106910006",
+        "nama": "Maya Sari",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1991-06-06",
+        "alamat": "Jl. HR Rasuna Said No. 60, Jakarta Selatan, Kuningan, Karet Kuningan, RT 006/RW 006, Jakarta Selatan, DKI Jakarta",
+        "jenis_kelamin": "Perempuan",
+        "status_perkawinan": "Belum Kawin",
+        "pekerjaan": "Desainer Grafis",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "B"
+    },
+    {
+        "nik": "3201010107870007",
+        "nama": "Faisal Rahman",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1987-07-07",
+        "alamat": "Jl. Casablanca No. 70, Jakarta Selatan, Tebet, Menteng Dalam, RT 007/RW 007, Jakarta Selatan, DKI Jakarta",
+        "jenis_kelamin": "Laki-laki",
+        "status_perkawinan": "Kawin",
+        "pekerjaan": "Dokter",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "O"
+    },
+    {
+        "nik": "3201010108930008",
+        "nama": "Putri Indah",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1993-08-08",
+        "alamat": "Jl. Asia Afrika No. 80, Jakarta Pusat, Tanah Abang, Gelora, RT 008/RW 008, Jakarta Pusat, DKI Jakarta",
+        "jenis_kelamin": "Perempuan",
+        "status_perkawinan": "Belum Kawin",
+        "pekerjaan": "Content Creator",
+        "agama": "Hindu",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "AB"
+    },
+    {
+        "nik": "3201010109890009",
+        "nama": "Hadi Susanto",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1989-09-09",
+        "alamat": "Jl. Hayam Wuruk No. 90, Jakarta Barat, Taman Sari, Maphar, RT 009/RW 009, Jakarta Barat, DKI Jakarta",
+        "jenis_kelamin": "Laki-laki",
+        "status_perkawinan": "Kawin",
+        "pekerjaan": "Arsitek",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "A"
+    },
+    {
+        "nik": "3201010110940010",
+        "nama": "Dina Permata",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1994-10-10",
+        "alamat": "Jl. Gajah Mada No. 100, Jakarta Barat, Palmerah, Slipi, RT 010/RW 010, Jakarta Barat, DKI Jakarta",
+        "jenis_kelamin": "Perempuan",
+        "status_perkawinan": "Belum Kawin",
+        "pekerjaan": "Guru",
+        "agama": "Kristen",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "B"
+    },
+    {
+        "nik": "3201010111860011",
+        "nama": "Eko Prasetyo",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1986-11-11",
+        "alamat": "Jl. Kyai Tapa No. 110, Jakarta Barat, Grogol Petamburan, Tomang, RT 011/RW 011, Jakarta Barat, DKI Jakarta",
+        "jenis_kelamin": "Laki-laki",
+        "status_perkawinan": "Kawin",
+        "pekerjaan": "Akuntan",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "O"
+    },
+    {
+        "nik": "3201010112900012",
+        "nama": "Fitriani",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1990-12-12",
+        "alamat": "Jl. Daan Mogot No. 120, Jakarta Barat, Kalideres, Pegadungan, RT 012/RW 012, Jakarta Barat, DKI Jakarta",
+        "jenis_kelamin": "Perempuan",
+        "status_perkawinan": "Belum Kawin",
+        "pekerjaan": "Pustakawan",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "AB"
+    },
+    {
+        "nik": "3201010201870013",
+        "nama": "Gatot Subroto",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1987-01-13",
+        "alamat": "Jl. Raya Bogor No. 130, Jakarta Timur, Ciracas, Cibubur, RT 013/RW 013, Jakarta Timur, DKI Jakarta",
+        "jenis_kelamin": "Laki-laki",
+        "status_perkawinan": "Kawin",
+        "pekerjaan": "Supir",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "A"
+    },
+    {
+        "nik": "3201010202910014",
+        "nama": "Hana Wijaya",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1991-02-14",
+        "alamat": "Jl. Pondok Indah No. 140, Jakarta Selatan, Kebayoran Lama, Pondok Pinang, RT 014/RW 014, Jakarta Selatan, DKI Jakarta",
+        "jenis_kelamin": "Perempuan",
+        "status_perkawinan": "Belum Kawin",
+        "pekerjaan": "Model",
+        "agama": "Kristen",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "B"
+    },
+    {
+        "nik": "3201010203880015",
+        "nama": "Irfan Maulana",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1988-03-15",
+        "alamat": "Jl. Fatmawati No. 150, Jakarta Selatan, Cilandak, Gandaria Selatan, RT 015/RW 015, Jakarta Selatan, DKI Jakarta",
+        "jenis_kelamin": "Laki-laki",
+        "status_perkawinan": "Kawin",
+        "pekerjaan": "Programmer",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "O"
+    },
+    {
+        "nik": "3201010204950016",
+        "nama": "Jihan Fadhilah",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1995-04-16",
+        "alamat": "Jl. Kemang Raya No. 160, Jakarta Selatan, Mampang Prapatan, Bangka, RT 016/RW 016, Jakarta Selatan, DKI Jakarta",
+        "jenis_kelamin": "Perempuan",
+        "status_perkawinan": "Belum Kawin",
+        "pekerjaan": "Penulis",
+        "agama": "Islam",
+        "kewarganegaraan": "WNI",
+        "golongan_darah": "AB"
+    }
+],
+
+    "Media_Sosial(API_Twitter/X,Facebook,TikTok)": [
+    {
+        "id_post": "tw1001",
+        "platform": "Twitter",
+        "username": "aktivis_demokrasi",
+        "timestamp": "2023-10-26T10:00:00Z",
+        "konten": "Korupsi merajalela! Saatnya rakyat bersuara! #TolakKorupsi #AksiDamai",
+        "sentimen": "Negatif",
+        "likes": 150
+    },
+    {
+        "id_post": "fb2002",
+        "platform": "Facebook",
+        "username": "suara_rakyat_id",
+        "timestamp": "2023-10-26T11:30:00Z",
+        "konten": "Harga kebutuhan pokok naik terus, pemerintah harus segera bertindak! #RakyatSengsara #TurunkanHarga",
+        "sentimen": "Negatif",
+        "likes": 200
+    },
+    {
+        "id_post": "tk3003",
+        "platform": "TikTok",
+        "username": "generasi_peduli",
+        "timestamp": "2023-10-26T12:45:00Z",
+        "konten": "Video: Mari jaga lingkungan kita! #SaveOurEarth #LingkunganBersih",
+        "sentimen": "Positif",
+        "likes": 800
+    },
+    {
+        "id_post": "tw1004",
+        "platform": "Twitter",
+        "username": "berita_terkini",
+        "timestamp": "2023-10-26T13:15:00Z",
+        "konten": "Pemerintah luncurkan program bantuan sosial baru. #BantuanSosial #KesejahteraanRakyat",
+        "sentimen": "Positif",
+        "likes": 300
+    },
+    {
+        "id_post": "fb2005",
+        "platform": "Facebook",
+        "username": "diskusi_publik",
+        "timestamp": "2023-10-26T14:00:00Z",
+        "konten": "Debat panas tentang RUU baru. Apa pendapat Anda? #RUUKontroversial #Demokrasi",
+        "sentimen": "Netral",
+        "likes": 100
+    },
+    {
+        "id_post": "tk3006",
+        "platform": "TikTok",
+        "username": "info_viral",
+        "timestamp": "2023-10-26T15:30:00Z",
+        "konten": "Video: Momen lucu saat demo. #DemoLucu #Hiburan",
+        "sentimen": "Positif",
+        "likes": 1500
+    },
+    {
+        "id_post": "tw1007",
+        "platform": "Twitter",
+        "username": "peduli_pendidikan",
+        "timestamp": "2023-10-26T16:00:00Z",
+        "konten": "Pendidikan berkualitas untuk semua! #PendidikanMerata #MasaDepanBangsa",
+        "sentimen": "Positif",
+        "likes": 250
+    },
+    {
+        "id_post": "fb2008",
+        "platform": "Facebook",
+        "username": "komunitas_sehat",
+        "timestamp": "2023-10-26T17:00:00Z",
+        "konten": "Ayo hidup sehat dengan olahraga teratur! #GayaHidupSehat #Olahraga",
+        "sentimen": "Positif",
+        "likes": 180
+    },
+    {
+        "id_post": "tk3009",
+        "platform": "TikTok",
+        "username": "info_pemerintah",
+        "timestamp": "2023-10-26T18:00:00Z",
+        "konten": "Video: Penjelasan kebijakan baru pemerintah. #KebijakanPemerintah #InformasiPublik",
+        "sentimen": "Netral",
+        "likes": 1000
+    },
+    {
+        "id_post": "tw1010",
+        "platform": "Twitter",
+        "username": "ekonomi_indonesia",
+        "timestamp": "2023-10-26T19:00:00Z",
+        "konten": "Inflasi terkendali, ekonomi tumbuh positif. #EkonomiIndonesia #Investasi",
+        "sentimen": "Positif",
+        "likes": 400
+    },
+    {
+        "id_post": "fb2011",
+        "platform": "Facebook",
+        "username": "peduli_sosial",
+        "timestamp": "2023-10-26T20:00:00Z",
+        "konten": "Donasi untuk korban bencana alam. Mari bantu sesama! #BantuanBencana #Solidaritas",
+        "sentimen": "Positif",
+        "likes": 350
+    },
+    {
+        "id_post": "tk3012",
+        "platform": "TikTok",
+        "username": "seni_budaya",
+        "timestamp": "2023-10-26T21:00:00Z",
+        "konten": "Video: Tarian tradisional Indonesia. #BudayaIndonesia #Seni",
+        "sentimen": "Positif",
+        "likes": 1200
+    },
+    {
+        "id_post": "tw1013",
+        "platform": "Twitter",
+        "username": "politik_indonesia",
+        "timestamp": "2023-10-26T22:00:00Z",
+        "konten": "Analisis kebijakan luar negeri terbaru. #PolitikLuarNegeri #Diplomasi",
+        "sentimen": "Netral",
+        "likes": 180
+    },
+    {
+        "id_post": "fb2014",
+        "platform": "Facebook",
+        "username": "teknologi_terkini",
+        "timestamp": "2023-10-26T23:00:00Z",
+        "konten": "Inovasi terbaru di dunia teknologi. #Teknologi #Inovasi",
+        "sentimen": "Positif",
+        "likes": 220
+    },
+    {
+        "id_post": "tk3015",
+        "platform": "TikTok",
+        "username": "kuliner_nusantara",
+        "timestamp": "2023-10-27T00:00:00Z",
+        "konten": "Video: Resep masakan daerah. #KulinerIndonesia #ResepMasakan",
+        "sentimen": "Positif",
+        "likes": 900
+    },
+    {
+        "id_post": "tw1016",
+        "platform": "Twitter",
+        "username": "lingkungan_hidup",
+        "timestamp": "2023-10-27T01:00:00Z",
+        "konten": "Kampanye pengurangan sampah plastik. #LessPlastic #GoGreen",
+        "sentimen": "Positif",
+        "likes": 280
+    },
+    {
+        "id_post": "fb2017",
+        "platform": "Facebook",
+        "username": "travel_indonesia",
+        "timestamp": "2023-10-27T02:00:00Z",
+        "konten": "Destinasi wisata tersembunyi di Indonesia. #WonderfulIndonesia #Travel",
+        "sentimen": "Positif",
+        "likes": 450
+    },
+    {
+        "id_post": "tk3018",
+        "platform": "TikTok",
+        "username": "fashion_terbaru",
+        "timestamp": "2023-10-27T03:00:00Z",
+        "konten": "Video: Tren fashion lokal. #FashionIndonesia #Gaya",
+        "sentimen": "Positif",
+        "likes": 1300
+    },
+    {
+        "id_post": "tw1019",
+        "platform": "Twitter",
+        "username": "kesehatan_masyarakat",
+        "timestamp": "2023-10-27T04:00:00Z",
+        "konten": "Pentingnya vaksinasi untuk anak-anak. #Vaksinasi #KesehatanAnak",
+        "sentimen": "Positif",
+        "likes": 320
+    },
+    {
+        "id_post": "fb2020",
+        "platform": "Facebook",
+        "username": "bisnis_startup",
+        "timestamp": "2023-10-27T05:00:00Z",
+        "konten": "Tips sukses membangun startup. #StartupIndonesia #BisnisMuda",
+        "sentimen": "Positif",
+        "likes": 280
+    },
+    {
+        "id_post": "tk3021",
+        "platform": "TikTok",
+        "username": "edukasi_online",
+        "timestamp": "2023-10-27T06:00:00Z",
+        "konten": "Video: Belajar bahasa Inggris dengan mudah. #BelajarOnline #Edukasi",
+        "sentimen": "Positif",
+        "likes": 1100
+    },
+    {
+        "id_post": "tw1022",
+        "platform": "Twitter",
+        "username": "olahraga_nasional",
+        "timestamp": "2023-10-27T07:00:00Z",
+        "konten": "Timnas Indonesia raih kemenangan gemilang! #GarudaDiDadaku #SepakBolaIndonesia",
+        "sentimen": "Positif",
+        "likes": 500
+    },
+    {
+        "id_post": "fb2023",
+        "platform": "Facebook",
+        "username": "seni_rupa",
+        "timestamp": "2023-10-27T08:00:00Z",
+        "konten": "Pameran seni kontemporer. #SeniRupa #Pameran",
+        "sentimen": "Positif",
+        "likes": 150
+    },
+    {
+        "id_post": "tk3024",
+        "platform": "TikTok",
+        "username": "komedi_receh",
+        "timestamp": "2023-10-27T09:00:00Z",
+        "konten": "Video: Sketsa komedi lucu. #KomediIndonesia #HiburanReceh",
+        "sentimen": "Positif",
+        "likes": 1800
+    },
+    {
+        "id_post": "tw1025",
+        "platform": "Twitter",
+        "username": "berita_daerah",
+        "timestamp": "2023-10-27T10:00:00Z",
+        "konten": "Pembangunan infrastruktur di daerah terpencil. #PembangunanDaerah #Infrastruktur",
+        "sentimen": "Positif",
+        "likes": 200
+    }
+],
+
+    "Data_Aksi_Demonstrasi(Kepolisian)": [
+    {
+        "id_demonstrasi": "DEMO001",
+        "tanggal": "2023-10-25",
+        "waktu_mulai": "09:00:00",
+        "lokasi": "Depan Gedung DPR/MPR, Jakarta",
+        "jumlah_peserta": 700,
+        "tujuan_resmi": "Menuntut penurunan harga kebutuhan pokok",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO002",
+        "tanggal": "2023-10-26",
+        "waktu_mulai": "10:00:00",
+        "lokasi": "Bundaran HI, Jakarta",
+        "jumlah_peserta": 450,
+        "tujuan_resmi": "Menuntut kenaikan upah minimum",
+        "status_izin": "Diizinkan",
+        "provokator": "Teridentifikasi 2 orang"
+    },
+    {
+        "id_demonstrasi": "DEMO003",
+        "tanggal": "2023-10-27",
+        "waktu_mulai": "08:30:00",
+        "lokasi": "Kantor Gubernur Jawa Barat, Bandung",
+        "jumlah_peserta": 250,
+        "tujuan_resmi": "Menolak penggusuran lahan pertanian",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO004",
+        "tanggal": "2023-10-28",
+        "waktu_mulai": "13:00:00",
+        "lokasi": "Kantor Walikota Surabaya, Surabaya",
+        "jumlah_peserta": 200,
+        "tujuan_resmi": "Menuntut perbaikan fasilitas umum",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO005",
+        "tanggal": "2023-10-29",
+        "waktu_mulai": "09:30:00",
+        "lokasi": "Kantor DPRD Provinsi Jawa Tengah, Semarang",
+        "jumlah_peserta": 120,
+        "tujuan_resmi": "Menolak kebijakan pendidikan baru",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO006",
+        "tanggal": "2023-10-30",
+        "waktu_mulai": "11:00:00",
+        "lokasi": "Istana Negara, Jakarta",
+        "jumlah_peserta": 1000,
+        "tujuan_resmi": "Menuntut penegakan hukum yang adil",
+        "status_izin": "Diizinkan",
+        "provokator": "Teridentifikasi 5 orang"
+    },
+    {
+        "id_demonstrasi": "DEMO007",
+        "tanggal": "2023-10-31",
+        "waktu_mulai": "09:00:00",
+        "lokasi": "Kantor Kementerian Lingkungan Hidup, Jakarta",
+        "jumlah_peserta": 150,
+        "tujuan_resmi": "Menuntut perlindungan hutan",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO008",
+        "tanggal": "2023-11-01",
+        "waktu_mulai": "10:00:00",
+        "lokasi": "Kantor Dinas Pendidikan Provinsi, Yogyakarta",
+        "jumlah_peserta": 100,
+        "tujuan_resmi": "Menuntut peningkatan kesejahteraan guru",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO009",
+        "tanggal": "2023-11-02",
+        "waktu_mulai": "14:00:00",
+        "lokasi": "Kantor PLN Pusat, Jakarta",
+        "jumlah_peserta": 300,
+        "tujuan_resmi": "Menuntut penurunan tarif listrik",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO010",
+        "tanggal": "2023-11-03",
+        "waktu_mulai": "08:00:00",
+        "lokasi": "Kantor Kementerian Kesehatan, Jakarta",
+        "jumlah_peserta": 220,
+        "tujuan_resmi": "Menuntut perbaikan sistem kesehatan",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO011",
+        "tanggal": "2023-11-04",
+        "waktu_mulai": "10:30:00",
+        "lokasi": "Kantor Kejaksaan Agung, Jakarta",
+        "jumlah_peserta": 500,
+        "tujuan_resmi": "Menuntut penuntasan kasus korupsi",
+        "status_izin": "Diizinkan",
+        "provokator": "Teridentifikasi 1 orang"
+    },
+    {
+        "id_demonstrasi": "DEMO012",
+        "tanggal": "2023-11-05",
+        "waktu_mulai": "09:00:00",
+        "lokasi": "Kantor Kementerian Pertanian, Jakarta",
+        "jumlah_peserta": 110,
+        "tujuan_resmi": "Menuntut subsidi pupuk",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO013",
+        "tanggal": "2023-11-06",
+        "waktu_mulai": "13:00:00",
+        "lokasi": "Kantor Kementerian Sosial, Jakarta",
+        "jumlah_peserta": 160,
+        "tujuan_resmi": "Menuntut pemerataan bantuan sosial",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO014",
+        "tanggal": "2023-11-07",
+        "waktu_mulai": "08:30:00",
+        "lokasi": "Kantor Kementerian Perhubungan, Jakarta",
+        "jumlah_peserta": 140,
+        "tujuan_resmi": "Menuntut regulasi yang adil",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO015",
+        "tanggal": "2023-11-08",
+        "waktu_mulai": "10:00:00",
+        "lokasi": "Kantor Kementerian Pekerjaan Umum, Jakarta",
+        "jumlah_peserta": 250,
+        "tujuan_resmi": "Menuntut perbaikan jalan rusak",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO016",
+        "tanggal": "2023-11-09",
+        "waktu_mulai": "09:00:00",
+        "lokasi": "Kantor Kementerian Agama, Jakarta",
+        "jumlah_peserta": 90,
+        "tujuan_resmi": "Menuntut toleransi beragama",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO017",
+        "tanggal": "2023-11-10",
+        "waktu_mulai": "11:00:00",
+        "lokasi": "Kantor Kementerian Hukum dan HAM, Jakarta",
+        "jumlah_peserta": 380,
+        "tujuan_resmi": "Menuntut keadilan bagi korban",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO018",
+        "tanggal": "2023-11-11",
+        "waktu_mulai": "09:30:00",
+        "lokasi": "Kantor Gubernur Sumatera Utara, Medan",
+        "jumlah_peserta": 180,
+        "tujuan_resmi": "Menuntut peningkatan kualitas pendidikan",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO019",
+        "tanggal": "2023-11-12",
+        "waktu_mulai": "10:00:00",
+        "lokasi": "Alun-Alun Kota Malang, Malang",
+        "jumlah_peserta": 220,
+        "tujuan_resmi": "Menolak kenaikan tarif transportasi umum",
+        "status_izin": "Diizinkan",
+        "provokator": "Teridentifikasi 1 orang"
+    },
+    {
+        "id_demonstrasi": "DEMO020",
+        "tanggal": "2023-11-13",
+        "waktu_mulai": "08:00:00",
+        "lokasi": "Kantor Walikota Makassar, Makassar",
+        "jumlah_peserta": 300,
+        "tujuan_resmi": "Menuntut perbaikan sanitasi kota",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO021",
+        "tanggal": "2023-11-14",
+        "waktu_mulai": "13:00:00",
+        "lokasi": "Kantor DPRD Provinsi Bali, Denpasar",
+        "jumlah_peserta": 130,
+        "tujuan_resmi": "Menuntut perlindungan hak nelayan",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO022",
+        "tanggal": "2023-11-15",
+        "waktu_mulai": "09:00:00",
+        "lokasi": "Kantor Gubernur Sulawesi Selatan, Makassar",
+        "jumlah_peserta": 210,
+        "tujuan_resmi": "Menuntut transparansi anggaran daerah",
+        "status_izin": "Diizinkan",
+        "provokator": "Teridentifikasi 2 orang"
+    },
+    {
+        "id_demonstrasi": "DEMO023",
+        "tanggal": "2023-11-16",
+        "waktu_mulai": "10:30:00",
+        "lokasi": "Taman Kota Palembang, Palembang",
+        "jumlah_peserta": 170,
+        "tujuan_resmi": "Menuntut penyediaan air bersih",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO024",
+        "tanggal": "2023-11-17",
+        "waktu_mulai": "08:30:00",
+        "lokasi": "Kantor Walikota Bandar Lampung, Bandar Lampung",
+        "jumlah_peserta": 140,
+        "tujuan_resmi": "Menuntut perbaikan transportasi publik",
+        "status_izin": "Diizinkan",
+        "provokator": "Tidak teridentifikasi"
+    },
+    {
+        "id_demonstrasi": "DEMO025",
+        "tanggal": "2023-11-18",
+        "waktu_mulai": "11:00:00",
+        "lokasi": "Kantor DPRD Provinsi Riau, Pekanbaru",
+        "jumlah_peserta": 190,
+        "tujuan_resmi": "Menuntut perlindungan lingkungan hidup",
+        "status_izin": "Diizinkan",
+        "provokator": "Teridentifikasi 1 orang"
+    }
+],
+    "Data_Pemantauan_Kerumunan(CCTV_berbasis_AI)": [
+    {
+        "id_rekaman": "CCTV001_20231025_0900",
+        "tanggal": "2023-10-25",
+        "waktu": "09:00:00",
+        "lokasi_cctv": "Depan Gedung DPR/MPR, Jakarta",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 150,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 10
+    },
+    {
+        "id_rekaman": "CCTV002_20231026_1000",
+        "tanggal": "2023-10-26",
+        "waktu": "10:00:00",
+        "lokasi_cctv": "Bundaran HI, Jakarta",
+        "kepadatan_kerumunan": "Tinggi",
+        "jumlah_orang_terdeteksi": 300,
+        "potensi_konflik": "Sedang",
+        "jumlah_kendaraan_terdeteksi": 5
+    },
+    {
+        "id_rekaman": "CCTV003_20231027_0830",
+        "tanggal": "2023-10-27",
+        "waktu": "08:30:00",
+        "lokasi_cctv": "Kantor Gubernur Jawa Barat, Bandung",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 80,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 8
+    },
+    {
+        "id_rekaman": "CCTV004_20231028_1300",
+        "tanggal": "2023-10-28",
+        "waktu": "13:00:00",
+        "lokasi_cctv": "Kantor Walikota Surabaya, Surabaya",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 120,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 12
+    },
+    {
+        "id_rekaman": "CCTV005_20231029_0930",
+        "tanggal": "2023-10-29",
+        "waktu": "09:30:00",
+        "lokasi_cctv": "Kantor DPRD Provinsi Jawa Tengah, Semarang",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 70,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 7
+    },
+    {
+        "id_rekaman": "CCTV006_20231030_1100",
+        "tanggal": "2023-10-30",
+        "waktu": "11:00:00",
+        "lokasi_cctv": "Istana Negara, Jakarta",
+        "kepadatan_kerumunan": "Sangat Tinggi",
+        "jumlah_orang_terdeteksi": 800,
+        "potensi_konflik": "Tinggi",
+        "jumlah_kendaraan_terdeteksi": 20
+    },
+    {
+        "id_rekaman": "CCTV007_20231031_0900",
+        "tanggal": "2023-10-31",
+        "waktu": "09:00:00",
+        "lokasi_cctv": "Kantor Kementerian Lingkungan Hidup, Jakarta",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 90,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 6
+    },
+    {
+        "id_rekaman": "CCTV008_20231101_1000",
+        "tanggal": "2023-11-01",
+        "waktu": "10:00:00",
+        "lokasi_cctv": "Kantor Dinas Pendidikan Provinsi, Yogyakarta",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 60,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 4
+    },
+    {
+        "id_rekaman": "CCTV009_20231102_1400",
+        "tanggal": "2023-11-02",
+        "waktu": "14:00:00",
+        "lokasi_cctv": "Kantor PLN Pusat, Jakarta",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 180,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 15
+    },
+    {
+        "id_rekaman": "CCTV010_20231103_0800",
+        "tanggal": "2023-11-03",
+        "waktu": "08:00:00",
+        "lokasi_cctv": "Kantor Kementerian Kesehatan, Jakarta",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 100,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 9
+    },
+    {
+        "id_rekaman": "CCTV011_20231104_1030",
+        "tanggal": "2023-11-04",
+        "waktu": "10:30:00",
+        "lokasi_cctv": "Kantor Kejaksaan Agung, Jakarta",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 300,
+        "potensi_konflik": "Sedang",
+        "jumlah_kendaraan_terdeteksi": 18
+    },
+    {
+        "id_rekaman": "CCTV012_20231105_0900",
+        "tanggal": "2023-11-05",
+        "waktu": "09:00:00",
+        "lokasi_cctv": "Kantor Kementerian Pertanian, Jakarta",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 70,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 5
+    },
+    {
+        "id_rekaman": "CCTV013_20231106_1300",
+        "tanggal": "2023-11-06",
+        "waktu": "13:00:00",
+        "lokasi_cctv": "Kantor Kementerian Sosial, Jakarta",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 100,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 7
+    },
+    {
+        "id_rekaman": "CCTV014_20231107_0830",
+        "tanggal": "2023-11-07",
+        "waktu": "08:30:00",
+        "lokasi_cctv": "Kantor Kementerian Perhubungan, Jakarta",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 80,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 6
+    },
+    {
+        "id_rekaman": "CCTV015_20231108_1000",
+        "tanggal": "2023-11-08",
+        "waktu": "10:00:00",
+        "lokasi_cctv": "Kantor Kementerian Pekerjaan Umum, Jakarta",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 150,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 10
+    },
+    {
+        "id_rekaman": "CCTV016_20231109_0900",
+        "tanggal": "2023-11-09",
+        "waktu": "09:00:00",
+        "lokasi_cctv": "Kantor Kementerian Agama, Jakarta",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 50,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 3
+    },
+    {
+        "id_rekaman": "CCTV017_20231110_1100",
+        "tanggal": "2023-11-10",
+        "waktu": "11:00:00",
+        "lokasi_cctv": "Kantor Kementerian Hukum dan HAM, Jakarta",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 250,
+        "potensi_konflik": "Sedang",
+        "jumlah_kendaraan_terdeteksi": 12
+    },
+    {
+        "id_rekaman": "CCTV018_20231111_0930",
+        "tanggal": "2023-11-11",
+        "waktu": "09:30:00",
+        "lokasi_cctv": "Kantor Gubernur Sumatera Utara, Medan",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 140,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 9
+    },
+    {
+        "id_rekaman": "CCTV019_20231112_1000",
+        "tanggal": "2023-11-12",
+        "waktu": "10:00:00",
+        "lokasi_cctv": "Alun-Alun Kota Malang, Malang",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 180,
+        "potensi_konflik": "Sedang",
+        "jumlah_kendaraan_terdeteksi": 11
+    },
+    {
+        "id_rekaman": "CCTV020_20231113_0800",
+        "tanggal": "2023-11-13",
+        "waktu": "08:00:00",
+        "lokasi_cctv": "Kantor Walikota Makassar, Makassar",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 220,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 14
+    },
+    {
+        "id_rekaman": "CCTV021_20231114_1300",
+        "tanggal": "2023-11-14",
+        "waktu": "13:00:00",
+        "lokasi_cctv": "Kantor DPRD Provinsi Bali, Denpasar",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 90,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 7
+    },
+    {
+        "id_rekaman": "CCTV022_20231115_0900",
+        "tanggal": "2023-11-15",
+        "waktu": "09:00:00",
+        "lokasi_cctv": "Kantor Gubernur Sulawesi Selatan, Makassar",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 160,
+        "potensi_konflik": "Sedang",
+        "jumlah_kendaraan_terdeteksi": 10
+    },
+    {
+        "id_rekaman": "CCTV023_20231116_1030",
+        "tanggal": "2023-11-16",
+        "waktu": "10:30:00",
+        "lokasi_cctv": "Taman Kota Palembang, Palembang",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 110,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 8
+    },
+    {
+        "id_rekaman": "CCTV024_20231117_0830",
+        "tanggal": "2023-11-17",
+        "waktu": "08:30:00",
+        "lokasi_cctv": "Kantor Walikota Bandar Lampung, Bandar Lampung",
+        "kepadatan_kerumunan": "Rendah",
+        "jumlah_orang_terdeteksi": 95,
+        "potensi_konflik": "Rendah",
+        "jumlah_kendaraan_terdeteksi": 6
+    },
+    {
+        "id_rekaman": "CCTV025_20231118_1100",
+        "tanggal": "2023-11-18",
+        "waktu": "11:00:00",
+        "lokasi_cctv": "Kantor DPRD Provinsi Riau, Pekanbaru",
+        "kepadatan_kerumunan": "Sedang",
+        "jumlah_orang_terdeteksi": 130,
+        "potensi_konflik": "Sedang",
+        "jumlah_kendaraan_terdeteksi": 9
+    }
+]
+
+}
